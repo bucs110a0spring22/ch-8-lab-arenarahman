@@ -8,18 +8,18 @@
 Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+ I created a class called StringUtility which is a module for the main.py file. In this class, string is stored as a parmeter and an instance variable. This is then used to create a library with different functions that were used to complete all the methods in the driver code.  
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ none
 
 ## REFERENCES:
- < List any outside resources used >
+ stackoverflow
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ none
